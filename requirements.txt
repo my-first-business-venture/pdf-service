@@ -1,0 +1,8 @@
+dotenv == 0.9.9
+fastapi == 0.116.0
+pydantic == 2.11.7
+uvicorn == 0.35.0
+PyPDF2 == 3.0.1
+httpx == 0.28.1
+llama-index == 0.12.47
+openai == 1.93.1
